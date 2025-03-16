@@ -1,4 +1,4 @@
 # Demo-Repo
-First repo for practice
+First repository for practice
 <br>
 Author:- Anupam Das
